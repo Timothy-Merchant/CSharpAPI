@@ -20,8 +20,9 @@ namespace Commander.Controllers
 
             return Ok(commandItems);
         }
+        
         // GET api/commands/5
-        [HttpGet]
+        [HttpGet("{id}")]
         public ActionResult <Command> GetCommandById(int id)
         {
             var commandItem = _repository.GetCommandById(id);

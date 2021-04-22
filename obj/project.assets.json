@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\CNET\\Commander\\Commander.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\CNET\\Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "C:\\Users\\PC\\Desktop\\CNET\\Commander\\Commander.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\CNET\\Commander.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\CNET\\Commander\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\CNET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
